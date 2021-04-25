@@ -33,10 +33,12 @@
 ## 💻 Project
 
 Projeto desenvolvido durante a semana do nlw 05. Aplicativo para lembrar o usuário os horários para regar suas plantas.
+
+
 project developed during the week of nlw 05. Application to remind the user of the times to water their plants.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="https://github.com/MailsonSilva/GoBarber/blob/master/tela01.png" width="500px" />
+    <img alt="Example" title="Example" src="https://github.com/MailsonSilva/plantmanager_nlw5/blob/main/others/img.gif" width="200px" />
 </h1>
 
 
